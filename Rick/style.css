@@ -1,0 +1,266 @@
+body{
+    margin: 100px 45%;
+}
+.face{
+    width: 136px;
+    height: 212px;
+    background: #d7c79e;
+    /* background: rgb(216, 209, 190); */
+    border-radius: 40% 40% 45% 45%;
+    border: 2px solid #000;
+}
+/* .hair{
+    position: absolute;
+    top: -65px;
+    left: 15px;
+    clip-path: polygon(50%, 0%, 0%, 100%, 100%, 100%);
+    width: 100px;
+    height: 100px;
+    background: rgb(148, 216, 235);
+} */
+
+.gora{
+    width: 40px;
+    height: 10px;
+    margin-top: -6px;
+    border-bottom: solid 1px #000;
+    border-radius: 40% 40% 72% 25%;
+    margin-left: 45px;
+}
+.gora1{
+    width: 20px;
+    height: 10px;
+    margin-top: 15px;
+    border-bottom: solid 1px #000;
+    border-radius: 40% 40% 72% 25%;
+    margin-left: 55px;
+}
+
+.hajeb{
+    width: 70px;
+    height: 5px;
+    background: rgb(154, 228, 238);
+    border: 1px solid #000;
+    border-radius: 40% 40% 32% 32%;
+    margin-left: 27px;
+    margin-top: 15px;
+}
+.iyess{
+    display: flex;
+    margin-top: 10px;
+}
+.iyes{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: white;
+    margin-left: 17px;
+    border: solid 1.3px #000;
+
+}
+.iyes2{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: white;
+    margin-left: 20px;
+    border: solid 1.3px #000;
+}
+.iyas-poc{
+    width: 5px;
+    height: 5px;
+    background: #000;
+    border-radius: 100%;;
+    margin-top: 18px;
+    margin-left: 19px;
+}
+.iyas-gfn{
+    border-bottom: solid 1px #000;
+    width: 32px;
+    height: 15px;
+    border-radius: 100%;
+    margin-left: 66px;
+    margin-top: 3.5px;
+}
+.iyas-gfn2{
+    border-bottom: solid 1px #000;
+    width: 30px;
+    height: 15px;
+    border-radius: 100%;
+    margin-left: -57px;
+    margin-top: 3.5px;
+}
+
+.nose{
+    height: 30px;
+    width: 5px;
+    border: solid 2px #000;
+    border-radius: 30% 40% 32% 32%;
+    margin-left: 65px;
+    margin-top: 2px;
+    border-top: solid 1px rgb(172, 172, 172);
+}
+.mauth{
+    width: 55px;
+    height: 10px;
+    border-top: solid 1.5px #000;
+    border-radius: 70% 20% 22% 22%;
+    margin-left: 45px;
+    margin-top: 22px;
+}
+.mauth-poc{
+    border-right: solid 1.5px #000;
+    width: 5px;
+    height: 7px;
+    border-radius: 100%;
+    margin-left: 100px;
+    margin-top: -13.3px;
+}
+.mauth-poc2{
+    border-left: solid 1.5px #000;
+    width: 5px;
+    height: 7px;
+    border-radius: 100%;
+    margin-left: 40px;
+}
+.hair0{
+    position: absolute;
+    top: 60px;
+    left: 48.7%;
+    transform: rotate(0deg);
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    width: 90px;
+    height: 40px;
+    background: rgb(154, 228, 238);
+}
+.hair12{
+    position: absolute;
+    top: 10px;
+    left: 50.7%;
+    transform: rotate(20deg);
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    width: 80px;
+    height: 80px;
+    background: rgb(154, 228, 238);
+}
+.hair11{
+    position: absolute;
+    top: 65px;
+    left: 52%;
+    transform: rotate(30deg);
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    width: 60px;
+    height: 50px;
+    background: rgb(154, 228, 238);
+}
+.hair{
+    position: absolute;
+    top: 50px;
+    left: 53.09%;
+    transform: rotate(55deg);
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    width: 85px;
+    height: 85px;
+    background: rgb(154, 228, 238);
+   
+}
+.hair1{
+    position: absolute;
+    top: 0px;
+    left: 45.2%;
+    transform: rotate(-25deg);
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    width: 95px;
+    height: 95px;
+    background: rgb(154, 228, 238);
+}
+.hair2{
+    position: absolute;
+    top: 105px;
+    left: 54.75%;
+    transform: rotate(72deg);
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    width: 70px;
+    height: 70px;
+    background: rgb(154, 228, 238);
+}
+.hair3{
+    position: absolute;
+    top: 50px;
+    left: 41.09%;
+    transform: rotate(-54deg);
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    width: 85px;
+    height: 85px;
+    background: rgb(154, 228, 238);
+}
+.hair4{
+    position: absolute;
+    top: 115px;
+    left: 39.4%;
+    transform: rotate(-75deg);
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    width: 80px;
+    height: 80px;
+    background: rgb(154, 228, 238);
+}
+.hair5{
+    position: absolute;
+    top: 173px;
+    left: 41.35%;
+    transform: rotate(-90deg);
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    width: 50px;
+    height: 50px;
+    background: rgb(154, 228, 238);
+}
+.hair6{
+    position: absolute;
+    top: 160px;
+    left: 55.25%;
+    transform: rotate(87deg);
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    width: 50px;
+    height: 50px;
+    background: rgb(154, 228, 238);
+}
+.hair7{
+    position: absolute;
+    top: 205px;
+    left: 55.23%;
+    transform: rotate(94deg);
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    width: 40px;
+    height: 40px;
+    background: rgb(154, 228, 238);
+}
+.hair8{
+    position: absolute;
+    top: 205px;
+    left: 42.10%;
+    transform: rotate(-94deg);
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    width: 40px;
+    height: 40px;
+    background: rgb(154, 228, 238);
+}
+.hair9{
+    position: absolute;
+    top: 245px;
+    left: 54.8%;
+    transform: rotate(105deg);
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    width: 30px;
+    height: 30px;
+    background: rgb(154, 228, 238);
+}
+.hair10{
+    position: absolute;
+    top: 245px;
+    left: 43.30%;
+    transform: rotate(-105deg);
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    width: 30px;
+    height: 30px;
+    background: rgb(154, 228, 238);
+}
